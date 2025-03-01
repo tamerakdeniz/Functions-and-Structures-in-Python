@@ -38,7 +38,7 @@ This repository is a continuation of the previous Python series, focusing on fun
 
 1. **Clone this repository:**
    ```bash
-   git clone https://github.com/tamerakdeniz/Introduction-to-Python.git
+   git clone https://github.com/tamerakdeniz/Functions-and-Structures-in-Python.git
 2. **Make sure you have Python installed: <a href = "https://www.python.org/downloads/">Download Python</a> <br>**
 
 3.  **Run the desired file:**
